@@ -1,0 +1,6 @@
+pwd - visar vilken mapp jag befinner mig i.
+ls - visar vilka filer och mappar som finns i den aktuella mappen.
+cd - används för att byta mapp.
+mkdir - används för att skapa en ny mapp.
+touch - används för att skapa en ny fil.
+cat - används för att visa innehållet i en textfil.
