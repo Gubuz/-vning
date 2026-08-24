@@ -16,3 +16,11 @@ längs vägen.
 - `git branch` - används för att hantera branches.
 - `git push` - skickar lokala commits till GitHub.
 - `git pull` - hämtar ändringar från GitHub.
+
+## Repository, commit och versionshistorik
+
+Ett repository är en plats där ett projekt och dess filer versionshanteras med Git.
+
+En commit är en sparad version av förändringar som har gjorts i projektet.
+
+Versionshistoriken är en historik över projektets commits. Den gör det möjligt att se vilka förändringar som har gjorts och när de gjordes.
